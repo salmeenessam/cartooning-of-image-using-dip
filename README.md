@@ -7,14 +7,14 @@
 **[:heavy_check_mark:]** canny <br>
 ## Results: <br>
 #### Result 1: <br>
-![link](https://github.com/salmeenessam/cartooning-of-image-using-dip/blob/master/content/baby.png) <br>
+<img src="https://github.com/salmeenessam/cartooning-of-image-using-dip/blob/master/content/baby.png" width="200"> <br>
 ![link](https://github.com/salmeenessam/cartooning-of-image-using-dip/blob/master/results/res1.png) <br>
 #### Result 2: <br>
-![link](https://i.stack.imgur.com/Xxh5f.png) <br>
+<img src="https://i.stack.imgur.com/Xxh5f.png" width="200"> <br>
 ![link](https://github.com/salmeenessam/cartooning-of-image-using-dip/blob/master/results/res2.png) <br>
 #### Result 3: <br>
-![link](https://github.com/salmeenessam/cartooning-of-image-using-dip/blob/master/content/car.png) <br>
+<img src="https://github.com/salmeenessam/cartooning-of-image-using-dip/blob/master/content/car.png" width="200"> <br>
 ![link](https://github.com/salmeenessam/cartooning-of-image-using-dip/blob/master/results/res3.png) <br>
 #### Result 4: <br>
-![link](https://github.com/salmeenessam/cartooning-of-image-using-dip/blob/master/content/Lenna.png) <br>
+<img src="https://github.com/salmeenessam/cartooning-of-image-using-dip/blob/master/content/Lenna.png" width="200"> <br>
 ![link](https://github.com/salmeenessam/cartooning-of-image-using-dip/blob/master/results/res4.png) <br>
